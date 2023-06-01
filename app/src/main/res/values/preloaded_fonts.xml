@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amaranth</item>
+        <item>@font/amatica_sc_bold</item>
+        <item>@font/baloo</item>
+        <item>@font/candal</item>
+        <item>@font/kalam</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/seymour_one</item>
+    </array>
+</resources>
